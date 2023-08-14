@@ -1,0 +1,5 @@
+[29-Oct-2022 01:02:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/u9310843/public_html/api/harga_boiler/index.php:101
+Stack trace:
+#0 /home/u9310843/public_html/api/harga_boiler/index.php(5): run()
+#1 {main}
+  thrown in /home/u9310843/public_html/api/harga_boiler/index.php on line 101
