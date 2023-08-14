@@ -1,6 +1,6 @@
 <?php
 include('./parser/simple_html_dom.php');
-$conn = mysqli_connect("localhost", "u1734578_peternak_id", "u1734578_peternak.id", "u1734578_peternak.id");
+$conn = mysqli_connect("localhost", "username", "password", "database");
 
 $data = run();
 $partial = array_chunk($data, 4);
